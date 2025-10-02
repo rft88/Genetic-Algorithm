@@ -1,4 +1,4 @@
-from genetic_algorithm.ga import genetic_algorithm
+from ga import genetic_algorithm
 from EightQueensExample import EightQueens
 import matplotlib.pyplot as plt
 
